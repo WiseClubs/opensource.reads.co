@@ -19,3 +19,6 @@ Inside that directory, you can run several commands:
 2. Builds the app for production. npm run build
 3. Runs the built app in production mode. npm start
 
+### Template
+![ReadsCo](https://user-images.githubusercontent.com/2558220/119222240-e8de5100-bb25-11eb-817c-aebc40539e9d.png)
+
