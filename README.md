@@ -19,6 +19,30 @@ Inside that directory, you can run several commands:
 2. Builds the app for production. npm run build
 3. Runs the built app in production mode. npm start
 
+### Components
+```
+import Layout, { siteTitle } from '../components/layout'
+import HeroSection from '../components/hero-section'
+import ProductSection from '../components/product-section'
+import ContentSection from '../components/content-section'
+import Footer from '../components/footer'
+import Avatar from "../components/avatar"
+import Support from "../components/support"
+```
+
 ### Template
 ![ReadsCo](https://user-images.githubusercontent.com/2558220/119222240-e8de5100-bb25-11eb-817c-aebc40539e9d.png)
 
+### Links
+Navigate through the website using the following links
+https://reads.co/activate
+https://reads.co/discover
+https://reads.co/download
+https://reads.co/faq
+https://reads.co
+https://reads.co/notifications
+https://reads.co/post
+https://reads.co/privacy
+https://reads.co/profile
+https://reads.co/sitemap
+https://reads.co/terms
